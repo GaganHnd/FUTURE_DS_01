@@ -31,7 +31,8 @@ The dashboard provides a clear visualization of:
 ---
 
 ## 📸 Dashboard Preview
-(image-1.png) 
+<img width="1407" height="790" alt="image" src="https://github.com/user-attachments/assets/f809b924-2a4c-494c-86d1-3b1cfa0d0a3a" />
+
 
 ---
 
