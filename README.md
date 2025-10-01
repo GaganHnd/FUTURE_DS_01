@@ -44,4 +44,4 @@ The dashboard provides a clear visualization of:
 
 ## 🔗 Connect with Me
 If you liked this project or have suggestions, feel free to connect with me:  
-👉 [LinkedIn Profile](www.linkedin.com/in/gagan-handral)
+👉 [LinkedIn Profile]www.linkedin.com/in/gagan-handral
