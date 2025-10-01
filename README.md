@@ -31,7 +31,7 @@ The dashboard provides a clear visualization of:
 ---
 
 ## 📸 Dashboard Preview
-![alt text](image-1.png) 
+(image-1.png) 
 
 ---
 
